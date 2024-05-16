@@ -22,14 +22,14 @@ A game using python library pygame
      
 ![image](https://github.com/rlaxxwls13/AniPunch/assets/101396454/f24ac85b-8f4c-4ada-9b5c-8eda975fb3a6) ![image](https://github.com/rlaxxwls13/AniPunch/assets/101396454/cdd5096b-edbd-497f-80a1-740c80230b2f)
 
-   - 제거하지 못한 타겟이 땅에 떨어지면 life가 하나씩 감
+   - 제거하지 못한 타겟이 땅에 떨어지면 life가 하나씩 감소
      
 ![image](https://github.com/rlaxxwls13/AniPunch/assets/101396454/583c6de4-17b5-4980-8302-d27472593eab) ![image](https://github.com/rlaxxwls13/AniPunch/assets/101396454/a30ec68a-e034-407b-bcb3-246e12e93d20)
 
 
 3. 게임 종료
    - life가 전부 소진되면 게임오버 사운드와 함께 게임 종료, 사운드가 종료되면 시작페이지로 전환
-   - 
+
 ![image](https://github.com/rlaxxwls13/AniPunch/assets/101396454/4e412eab-b062-4eb2-abc5-a3074b4f5730) ![image](https://github.com/rlaxxwls13/AniPunch/assets/101396454/23e46682-6085-4d0b-8de3-9f070d762145)
 
  
